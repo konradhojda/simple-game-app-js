@@ -1,0 +1,23 @@
+/* Main styles  */
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+/* custom styles */
+
+.margin-bottom--20 {
+    margin-bottom: 20px;
+}
+
+/* login form  */
+
+.login {
+    margin-top: 150px;
+}
+
+.login__form {
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
