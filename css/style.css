@@ -16,8 +16,13 @@ body {
     margin-top: 150px;
 }
 
+.login__container {
+    justify-content: center;
+}
+
 .login__form {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    display: flex;
 }
